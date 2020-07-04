@@ -1,0 +1,80 @@
+#R1{
+    width: 1640px;
+    height:146px;
+    background-color: #ffffff;
+    align-self: center;
+    text-align: center;
+    margin: 70px 100px 0px 60px;
+
+}
+.logo{
+	width: 44.4px;
+	height: 50.5px;
+	float: left;
+	margin-left: 20px;
+}
+
+.home{
+	height:20px;
+	font-family: Gobold;
+	font-size: 20px;
+	color: #0d0d0d;
+	text-decoration: none;
+	padding: 15px;
+	
+}
+.contact{
+	text-decoration: underline;
+	
+}
+.gagan{
+	float: right;
+	padding-top: 0px;
+	padding-left: 70px;
+}
+
+#R2{
+	width: 500px;
+	height: 597px;
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.16);
+	background-color: #ffffff;
+	margin-left: 600px;
+}
+.reach{
+	height: 30px;
+	font-family: Gobold;
+	font-size: 30px;
+	line-height: 1.2;
+	color: #0d0d0d;
+	margin-left: 70px;
+}
+.for{
+	height: 20px;
+	font-family: ProductSansLight;
+	font-size: 20px;
+	line-height: 1.2;
+	color: #0d0d0d;
+	margin-left: 70px;
+
+}
+.active{
+	padding-left: 80px;
+	padding-top: 90px;
+}
+p{
+	height: 20px;
+	font-family: Gobold;
+	font-size: 20px;
+	line-height: 1.2;
+	color: #0d0d0d;
+	margin-left: 800px;
+}
+img{
+	width: 31.60px;
+	height: 31.6px;
+	display: inline-block;
+	padding: 5px;
+}
+.linkedin{
+	margin-left: 790px;
+}
