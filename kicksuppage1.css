@@ -1,3 +1,7 @@
+.main-container {
+	display: flex;
+	flex-direction: row;
+}
 #R1{
     width: 1640px;
     height:146px;
